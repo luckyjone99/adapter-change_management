@@ -15,12 +15,9 @@
   ],
   "author": "ACME",
   "license": "SEE LICENSE IN LICENSE.md",
-  "bugs": {
-    "url": "https://github.com/luckyjone99/adapter-change_management/issues"
+   "bugs": {
+    "url": "https://github.com/--snip--/adapter-change_management/issues"
   },
-  "homepage": "https://github.com/luckyjone99/adapter-change_management#readme",
-  "dependencies": {
-    "request": "^2.88.2"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/--snip--/adapter-change_management#readme"
+  
 }
